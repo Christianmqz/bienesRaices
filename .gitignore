@@ -1,5 +1,0 @@
-node_modules/
-vendor/
-cypress/
-.env
-.DS_Store
